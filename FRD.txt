@@ -1,7 +1,7 @@
 speak caller name
 speak msg sender name
 speak whatsapp sender
-
+ 
 Settings----------------
 choose apps-------------
 phone app, whatsapp, etc
