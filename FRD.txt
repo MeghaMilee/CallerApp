@@ -1,0 +1,13 @@
+speak caller name
+speak msg sender name
+speak whatsapp sender
+
+Settings----------------
+choose apps-------------
+phone app, whatsapp, etc
+voice configurations----
+pitch settings
+volume settings
+frequency settings
+sample voice
+reset settings
